@@ -1,3 +1,3 @@
 #! /bin/sh
 
-aplay ~/laser-sound/start.wmv
+aplay ~/laser-sound/start.wav
